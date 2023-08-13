@@ -4,7 +4,7 @@ I have open sourced all resources including verse scripts and island map assets.
 
 **[For Temple Project Page](https://www.fortnite.com/creative/island-codes/9444-4916-7452 "For Temple project page, From this you could add reference to your fortnite")** 
 
-For easy access, I strongly recommend that you visit the project webpage directly!  Otherwise, it will be difficult to find the game because fortnite does not have a search function. So from this page, you need to click the small red star, this will add the game directly to the discover page of your fortnite.    
+For easy access, I strongly recommend that you visit the project webpage directly!  Otherwise, it will be difficult to find the game because fortnite does not have a search function. So from this page, you need to click ADD TO PLAYLIST button and the small red star, this will add the game directly to the discover page of your fortnite.    
 
 ![For Temple Project Page](assets/project.png "For Temple Project Page")    
 ![For Temple Discover Page](assets/favorites.png "For Temple in Discover Page of Fortnite")
