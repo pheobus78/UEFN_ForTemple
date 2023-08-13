@@ -1,0 +1,44 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "ForTemple",
+	"description": "An AI example to showcase a game mode in which the goal is for players to eliminate all hostile enemies at a heavily guarded Stronghold.",
+	"keyArt": "Resources/Icon256.png",
+	"docsUrl": "",
+	"attributions": [],
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "25.30",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "ForTemple",
+			"bIsRoot": true,
+			"bIsPublic": false,
+			"bEnabled": true
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 4,
+			"maxTeamCount": 1,
+			"maxTeamSize": 4,
+			"maxSocialPartySize": 4,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "98a44287-44eb-b54a-016f-f88c2ba4d825",
+		"modules":
+		{
+			"ForTemple": "ff69c976-45d5-ccbf-f6b6-9eb71664bf5b"
+		}
+	}
+}
